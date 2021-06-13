@@ -16,5 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
+</a>
+<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt&layout=compact">
+</a>
 
+<!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
