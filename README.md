@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi guys. I'm a frontend developer 💻
+# Hi guys. I'm a frontend developer. ![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet) 💻
 
-![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
