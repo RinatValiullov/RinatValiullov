@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello 👋 I'm Rinat 🙋‍♂️
+# Hello! I'm [Rinat](https://4ront.ru) 🙋‍♂️
+
 ## I'm frontend developer from Russia 🖥️
 
-![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet)
+<!-- ![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet) -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Contact with me or offer a job (_I am in search_):
 
-[Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
+[Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
 
 <!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats) -->
 
