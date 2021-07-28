@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
 
+<hr>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
 </a>
