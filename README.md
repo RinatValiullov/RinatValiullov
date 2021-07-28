@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 <!-- ![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet) -->
 
+### Contact with me or offer a job (_I am in search_):
+
+[Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
@@ -30,9 +33,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt&layout=compact">
 </a>
 
-### Contact with me or offer a job (_I am in search_):
-
-[Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
 
 <!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats) -->
 
