@@ -27,14 +27,17 @@ Here are some ideas to get you started:
 
 <hr>
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt&layout=compact">
 </a>
-<hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
 </a>
 
+<hr>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 
 <!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats) -->
 
