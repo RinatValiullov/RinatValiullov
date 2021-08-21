@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=RinatValiullov&custom_title=My%20contributions&hide_border=false&area=true&area_color=4695BC&point=FEAC00&line=4695BC&theme=react-dark" alt="Recently contributions graph">
 
 <!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats) -->
 
