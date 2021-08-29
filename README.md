@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=RinatValiullov&custom_title=My%20contributions&hide_border=false&area=true&area_color=4695BC&point=FEAC00&line=4695BC&theme=react-dark" alt="Recently contributions graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=RinatValiullov&custom_title=My%20github%20activity&theme=redical" alt="My gitHub activities">
 
 <!-- [![RinatValiullov's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinatValiullov)](https://github.com/anuraghazra/github-readme-stats) -->
 
