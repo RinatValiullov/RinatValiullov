@@ -15,10 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hello! I'm [Rinat](https://4ront.ru) 🙋‍♂️</h1>
+<h1> Hello! I'm <a href="https://4ront.ru">Rinat</a> 🙋‍♂️</h1>
+<div>
+  <a href="https://github.com/RinatValiullov">
+    <img alt="FOLLOW" src="https://custom-icon-badges.herokuapp.com/github/followers/RinatValiullov?labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
+  </a>
+<!--   <a href="https://github.com/RinatValiullov?tab=repositories&sort=stargazers">
+    <img alt="github stars" src="https://custom-icon-badges.herokuapp.com/github/stars/rinatvaliullov?style=for-the-badge">
+  </a> -->
+  <a href="https://github.com/RinatValiullov?tab=repositories&q=&type=fork">
+    <img alt="github forks" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/rinatvaliullov">
+  </a>
+    <a href="https://github.com/RinatValiullov?tab=repositories&sort=stargazers">
+    <img alt="github stars" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rinatvaliullov">
+  </a>
+  
+</div>
+
 
 <h2> I'm frontend developer from Russia 🖥️</h2>
-<img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views%20&color=ff0000&style=flat-square" />
+<img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views&style=flat-square">
 
 <!-- ![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet) -->
 
@@ -28,6 +44,7 @@ Here are some ideas to get you started:
 
 <hr>
 
+<h2>:chart_with_upwards_trend: Github activity statistics</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt&layout=compact">
