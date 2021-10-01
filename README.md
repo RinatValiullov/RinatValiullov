@@ -38,17 +38,17 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <h2>SKILLS</h2>
+  <h2>Skills</h2>
   <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&color=555&logoColor=007ec6">
   <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=555&logoColor=007ec6">
-  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=555&logoColor=007ec6">
   <img alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&color=555&logoColor=007ec6">
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=555&logoColor=007ec6">
   <img alt="REACT" title="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=555&logoColor=007ec6">
   <img alt="ANGULAR" title="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&color=555&logoColor=007ec6">
 </div>
 
 <div>
-  <h2>If you have some questions you can do it here (_searching for a job_):</h2>
+  <h2>If you have some questions you can do it here (<i>searching for a job</i>):</h2>
 
 [Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
 </div>
