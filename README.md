@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello! I'm [Rinat](https://4ront.ru) 🙋‍♂️
+<h1> Hello! I'm [Rinat](https://4ront.ru) 🙋‍♂️</h1>
 
-## I'm frontend developer from Russia 🖥️
+<h2> I'm frontend developer from Russia 🖥️</h2>
+<img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views%20&color=ff0000&style=flat-square" />
 
 <!-- ![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet) -->
 
