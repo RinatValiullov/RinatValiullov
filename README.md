@@ -28,19 +28,30 @@ Here are some ideas to get you started:
   </a>
     <a href="https://github.com/RinatValiullov?tab=repositories&sort=stargazers">
     <img alt="github stars" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rinatvaliullov">
-  </a>
-  
+  </a>  
 </div>
 
 
-<h2> I'm frontend developer from Russia 🖥️</h2>
-<img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views&style=flat-square">
+<div>
+  <h2> I'm frontend developer from Russia 🖥️</h2>
+  <img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views&style=flat-square">  
+</div>
 
-<!-- ![Rinat Valiullov](https://komarev.com/ghpvc/?username=RinatValiullov&color=blueviolet) -->
+<div>
+  <h2>SKILLS</h2>
+  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&color=555&logoColor=007ec6">
+  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=555&logoColor=007ec6">
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=555&logoColor=007ec6">
+  <img alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&color=555&logoColor=007ec6">
+  <img alt="REACT" title="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=555&logoColor=007ec6">
+  <img alt="ANGULAR" title="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&color=555&logoColor=007ec6">
+</div>
 
-### Contact with me or offer a job (_I am in search_):
+<div>
+  <h2>If you have some questions you can do it here (_searching for a job_):</h2>
 
 [Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
+</div>
 
 <hr>
 
