@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/RinatValiullov?tab=repositories&q=&type=fork">
     <img alt="github forks" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/rinatvaliullov">
   </a>
-    <a href="https://github.com/RinatValiullov?tab=repositories&sort=stargazers">
+  <a href="https://github.com/RinatValiullov?tab=repositories&sort=stargazers">
     <img alt="github stars" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rinatvaliullov">
   </a>  
 </div>
@@ -49,9 +49,22 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <h2>If you have some questions you can do it here (<i>searching for a job</i>):</h2>
+  <h2>Contact me or offer a job:</h2>
 
-[Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie)
+  <a href="https://t.me/fredddie">
+    <img alt="telegram" title="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=555">
+  </a>
+  <a href="https://twitter.com/4rontender">
+    <img alt="twitter" title="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=555">
+  </a>
+  <a href="https://www.linkedin.com/in/4rontender/">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=555&logoColor=0a66c2">
+  </a>
+  <a href="https://career.habr.com/4reddie">
+    <img alt="career_habr" title="Career Habr" src="https://custom-icon-badges.herokuapp.com/badge/career%20habr-badge.svg?style=for-the-badge&logo=career_habr&color=555">
+  </a>
+  
+<!-- [Twitter](https://twitter.com/4rontender) * [Telegram](https://t.me/fredddie) * [Linkedin](https://www.linkedin.com/in/4rontender) * [Career Habr](https://career.habr.com/4reddie) -->
 </div>
 
 <hr>
