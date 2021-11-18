@@ -51,16 +51,16 @@ Here are some ideas to get you started:
 <div>
   <h2>Contact me or offer a job:</h2>
 
-  <a href="https://t.me/fredddie">
+  <a href="https://t.me/fredddie" target="_blank">
     <img alt="telegram" title="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=555">
   </a>
-  <a href="https://twitter.com/4rontender">
+  <a href="https://twitter.com/4rontender" target="_blank">
     <img alt="twitter" title="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=555">
   </a>
-  <a href="https://www.linkedin.com/in/4rontender/">
+  <a href="https://www.linkedin.com/in/4rontender/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=555&logoColor=0a66c2">
   </a>
-  <a href="https://career.habr.com/4reddie">
+  <a href="https://career.habr.com/4reddie" target="_blank">
     <img alt="career_habr" title="Career Habr" src="https://custom-icon-badges.herokuapp.com/badge/career%20habr-badge.svg?style=for-the-badge&logo=career_habr&color=555">
   </a>
   
