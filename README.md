@@ -68,15 +68,30 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+<h2>:chart_with_upwards_trend: Activity statistics:</h2>
 
-<h2>:chart_with_upwards_trend: Github activity statistics</h2>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RinatValiullov&theme=solarized_dark">
+</a>
 
+<br><br>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RinatValiullov&theme=solarized_dark">
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RinatValiullov&theme=solarized_dark">
+</a>
+
+<!-- Another readme status. Don't delete -->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatValiullov&theme=cobalt&layout=compact">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RinatValiullov&show_icons=true&theme=cobalt">
 </a>
+-->
 
 <hr>
 
