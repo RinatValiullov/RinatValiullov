@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hello! I'm <a href="https://4ront.ru">Rinat</a> 🙋‍♂️</h1>
+<h1> Hello! I'm Rinat 🙋‍♂️</h1>
 <div>
   <a href="https://github.com/RinatValiullov">
     <img alt="FOLLOW" src="https://custom-icon-badges.herokuapp.com/github/followers/RinatValiullov?labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
@@ -33,9 +33,13 @@ Here are some ideas to get you started:
 
 
 <div>
-  <h2> I'm frontend developer from Russia 🖥️</h2>
-  <img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views&style=flat-square">  
+  <h2> I'm frontend developer from Russia 🖥️ </h2>
+  <img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views&style=flat-square">
 </div>
+
+<h2>
+  <a href="https://4ront.ru">Welcome to my personal website 🌐</a>
+</h2>
 
 <div>
   <h2>Skills</h2>
