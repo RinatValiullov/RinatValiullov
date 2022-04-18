@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <div>
-  <h2> I'm frontend developer from Russia 🖥️ </h2>
+  <h2> I'm frontend developer 🖥️ </h2>
   <img align="right" src="https://komarev.com/ghpvc/?username=RinatValiullov&label=Profile%20Views&style=flat-square">
 </div>
 
